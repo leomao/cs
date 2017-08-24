@@ -2,6 +2,14 @@
 
 Packages in Arch Linux or AUR.
 
+## Basic Tools
+
+- `zsh`
+- `openssh`
+- `rsync`
+- `git`
+- `tmux`
+
 ## DE related
 
 - `gnome`
@@ -10,10 +18,8 @@ Packages in Arch Linux or AUR.
 
 ## Command Line
 
-- `zsh`
 - `exa`
 - `the_silver_searcher` (`ag`)
-- `tmux`
 
 ## Editor
 
