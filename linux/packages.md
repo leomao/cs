@@ -14,7 +14,9 @@ Packages in Arch Linux or AUR.
 ## Command Line
 
 - `exa`
-- `the_silver_searcher` (`ag`)
+- `ripgrep` (`rg`)
+- `bat`
+- `fd`
 
 ## Monitor
 
@@ -38,8 +40,8 @@ Packages in Arch Linux or AUR.
 
 - `gnome` (pacakge group)
 - `gnome-tweak-tool`
-- `flatplat-theme` (aur)
-- `chrome-gnome-shell-git` (aur)
+- `materia-gtk-theme`
+- `chrome-gnome-shell`
 
 ## Printer
 
@@ -60,7 +62,7 @@ Packages in Arch Linux or AUR.
 
 ## Terminal
 
-- `tilix-bin`
+- `tilix`
 
 ## Input Method
 
@@ -73,5 +75,4 @@ Packages in Arch Linux or AUR.
 - `libreoffice-fresh`
 - `zathura` `zathura-poppler` `zathura-djvu` `zathura-ps`
 - `easystroke`
-- `dropbox` (aur)
 
